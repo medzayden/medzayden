@@ -15,6 +15,6 @@ Skills: Unity | C#
 
 ![medzayden's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=medzayden&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
-![medzayden's Stats](https://github-readme-stats.vercel.app/api?username=medzayden&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+     ![medzayden's Stats](https://github-readme-stats.vercel.app/api?username=medzayden&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 ![medzayden's Streak](https://github-readme-streak-stats.herokuapp.com/?user=medzayden&theme=vue-dark&hide_border=false)
